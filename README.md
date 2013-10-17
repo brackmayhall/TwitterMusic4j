@@ -15,8 +15,6 @@ The following files are supplied in the "lib" folder.
 
 ## Quick start
 
-Three quick start options are available:
-
 * Clone the repo: `git clone https://github.com/brackmayhall/TwitterMusic.git`.
 * Set up a new java project and resolve dependency issues with the supplied jars in the lib folder.
 * run the driver and BOOM you have the music nicely mapped to plain old java objects.
