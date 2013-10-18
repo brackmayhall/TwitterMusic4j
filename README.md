@@ -3,6 +3,8 @@ TwitterMusic4j
 
 A Java library that utilizes the unofficial TwitterMusic API with JSON to POJO already handled.
 
+Test the results against https://music.twitter.com/
+
 ## Dependencies
 
 The following files are supplied in the "lib" folder.
